@@ -1,4 +1,4 @@
-package calculadora;
+package calculadora.visao;
 
 import java.awt.Color;
 import java.awt.Font;
